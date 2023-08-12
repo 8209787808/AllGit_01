@@ -1,4 +1,5 @@
 I am writing in file3 now in file3
 Hey How are you
 I am fine 
-use ctrl+d to end this writing
+use ctrl+d to end this writingI am doing updation in file 3 as I am forget somethings, so use cat >> file3
+Then use ctrl+d 
